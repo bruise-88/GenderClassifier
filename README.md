@@ -37,7 +37,9 @@ The classifiers successfully classifies gender using video frames/images. It pro
 1 for female and 0 for male in the console.
 
 Sample Output:
-![](sample_output.jpg)
+<p>
+    <img src="sample_output.png" width="220" height="240" />
+</p>
 
 ## Built With
 
