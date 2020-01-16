@@ -38,7 +38,7 @@ The classifiers successfully classifies gender using video frames/images. It pro
 
 Sample Output:
 <p>
-    <img src="sample_output.png" width="220" height="240" />
+    <img src="sample_output.jpg.png" />
 </p>
 
 ## Built With
